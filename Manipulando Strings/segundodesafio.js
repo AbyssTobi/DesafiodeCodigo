@@ -1,3 +1,6 @@
+// Remova todos os caracteres duplicados da string abaixo:
+// a. Input: "Hello, World!"
+
 function removaDuplicados(str) {
     var resultado = str[0];
     for (var i = 1; i < str.length; i++) {
